@@ -206,7 +206,19 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-venv/
+/venv/
+/.venv/
+/env/
 __pycache__/
 *.pyc
+*.pyo
 .env
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+*.swp
+build/
+dist/
+.eggs/
